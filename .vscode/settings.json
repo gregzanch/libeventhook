@@ -1,0 +1,4 @@
+{
+  "clangd.path": "/usr/bin/clangd",
+  "C_Cpp.default.cppStandard": "c++20"
+}
